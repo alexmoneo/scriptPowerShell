@@ -1,0 +1,2 @@
+# scriptPowerShell
+Practicas de PowerShell
